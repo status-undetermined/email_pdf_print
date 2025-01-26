@@ -1,3 +1,3 @@
-Just a little script to print PDF-Files from Emails.
+Just a little script to print PDF-files from emails.
 
-It's my first Python script and far away fromm good, but it works in my use-case.
+It's my first Python script and far away from good, but it works in my use-case.
