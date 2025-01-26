@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<data>
+    <account name="AccountName">
+        <mail>
+            <mail_user>my@mailaddress</mail_user>
+            <mail_pass>my_mail_password</mail_pass>
+            <mail_host>imap.myserver</mail_host>
+            <mail_port>IMAP-Port(993)</mail_port>
+            <mail_search_criteria>(UNSEEN)</mail_search_criteria>
+            <mail_mailbox>INBOX</mail_mailbox>
+            <mail_processed>INBOX</mail_processed>
+        </mail>
+        <attachment>
+            <coding></coding>
+        </attachment>
+        <printer>
+            <printer_name>my_printer_name</printer_name>
+        </printer>
+    </account>
+</data>
